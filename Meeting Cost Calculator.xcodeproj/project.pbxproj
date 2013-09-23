@@ -1,0 +1,363 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2EB89C4D17F0C8E300B1833E /* angular.min.js in Resources */ = {isa = PBXBuildFile; fileRef = 2EB89C4417F0C8E300B1833E /* angular.min.js */; };
+		2EB89C4E17F0C8E300B1833E /* calculator.js in Resources */ = {isa = PBXBuildFile; fileRef = 2EB89C4517F0C8E300B1833E /* calculator.js */; };
+		2EB89C4F17F0C8E300B1833E /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 2EB89C4617F0C8E300B1833E /* index.html */; };
+		2EB89C5017F0C8E300B1833E /* jquery-1.8.3.min.js in Resources */ = {isa = PBXBuildFile; fileRef = 2EB89C4717F0C8E300B1833E /* jquery-1.8.3.min.js */; };
+		2EB89C5117F0C8E300B1833E /* jquery.mobile-1.3.2.min.css in Resources */ = {isa = PBXBuildFile; fileRef = 2EB89C4817F0C8E300B1833E /* jquery.mobile-1.3.2.min.css */; };
+		2EB89C5217F0C8E300B1833E /* jquery.mobile-1.3.2.min.js in Resources */ = {isa = PBXBuildFile; fileRef = 2EB89C4917F0C8E300B1833E /* jquery.mobile-1.3.2.min.js */; };
+		2EB89C5317F0C8E300B1833E /* style.css in Resources */ = {isa = PBXBuildFile; fileRef = 2EB89C4A17F0C8E300B1833E /* style.css */; };
+		2EB89C5417F0C8E300B1833E /* tictactoe.js in Resources */ = {isa = PBXBuildFile; fileRef = 2EB89C4B17F0C8E300B1833E /* tictactoe.js */; };
+		2EB89C5517F0C8E300B1833E /* warning.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB89C4C17F0C8E300B1833E /* warning.png */; };
+		9FA19ABAE62E4D0372D6C1C8 /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FAB78F614E7E097C0C277CB /* MainStoryboard_iPhone.storyboard */; };
+		9FA283E7FB209DEA5CB19309 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FADD59ABE1006F8FECEF52B /* Default-568h@2x.png */; };
+		9FA3F3AF37EE2B085A88302D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FA34947801D472F4B12FEF5 /* AppDelegate.m */; };
+		9FA5817569022E3134C1F032 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FAABEAED9C66517C255D8A6 /* Default@2x.png */; };
+		9FA5D301C6205ECD2A8E3BD8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FA731B54A9912AEA1158818 /* main.m */; };
+		9FAB4872276107BB3CAE8E23 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9FADB2744D7E17703781EC42 /* InfoPlist.strings */; };
+		9FAC4834B8EBF6F63CF57B84 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FA8FE950DE576BFE9C5D4E5 /* ViewController.m */; };
+		9FAC5DE6C72A1405CA7D761A /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FA2E8716837BA137339B663 /* Default.png */; };
+		9FAD0E5FB14C8241B9A72253 /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FAF48E78AD5B233A86C9E67 /* MainStoryboard_iPad.storyboard */; };
+		9FAE76C2DD015DE43B878378 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FA12C4283A9D1632FDB70E4 /* UIKit.framework */; };
+		9FAF794DFF9B5A31588FE85A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FA847BC167B70164535C5E3 /* Foundation.framework */; };
+		9FAF8203287231EFC199C7C3 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FA92FBCA0BD929091B9E83C /* CoreGraphics.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		2EB89C4417F0C8E300B1833E /* angular.min.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = angular.min.js; sourceTree = "<group>"; };
+		2EB89C4517F0C8E300B1833E /* calculator.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = calculator.js; sourceTree = "<group>"; };
+		2EB89C4617F0C8E300B1833E /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		2EB89C4717F0C8E300B1833E /* jquery-1.8.3.min.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "jquery-1.8.3.min.js"; sourceTree = "<group>"; };
+		2EB89C4817F0C8E300B1833E /* jquery.mobile-1.3.2.min.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = "jquery.mobile-1.3.2.min.css"; sourceTree = "<group>"; };
+		2EB89C4917F0C8E300B1833E /* jquery.mobile-1.3.2.min.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "jquery.mobile-1.3.2.min.js"; sourceTree = "<group>"; };
+		2EB89C4A17F0C8E300B1833E /* style.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = style.css; sourceTree = "<group>"; };
+		2EB89C4B17F0C8E300B1833E /* tictactoe.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = tictactoe.js; sourceTree = "<group>"; };
+		2EB89C4C17F0C8E300B1833E /* warning.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = warning.png; sourceTree = "<group>"; };
+		9FA099092B3AFD23C9E0B233 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		9FA12C4283A9D1632FDB70E4 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		9FA2E8716837BA137339B663 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		9FA34947801D472F4B12FEF5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		9FA3A67F392E47B26D99FD95 /* Meeting Cost Calculator-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Meeting Cost Calculator-Prefix.pch"; sourceTree = "<group>"; };
+		9FA6D1F87FDB15754D40C205 /* Meeting Cost Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Meeting Cost Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9FA731B54A9912AEA1158818 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		9FA8198AD2FDC1F1E0BBCF06 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
+		9FA8246DB96008969AF2BAFB /* Meeting Cost Calculator-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = "Meeting Cost Calculator-Info.plist"; sourceTree = "<group>"; };
+		9FA847BC167B70164535C5E3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		9FA8FE950DE576BFE9C5D4E5 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		9FA92FBCA0BD929091B9E83C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		9FAABEAED9C66517C255D8A6 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		9FAB22E9115C7FE5F7A66AD4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		9FADD59ABE1006F8FECEF52B /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		9FAF55B30DD083107F103953 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		9FAF96D9360FFE293C4EF5DB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9FAB0CBE4A85DB84A0E4F049 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9FAE76C2DD015DE43B878378 /* UIKit.framework in Frameworks */,
+				9FAF794DFF9B5A31588FE85A /* Foundation.framework in Frameworks */,
+				9FAF8203287231EFC199C7C3 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2EB89C5617F0C8F500B1833E /* www */ = {
+			isa = PBXGroup;
+			children = (
+				2EB89C4417F0C8E300B1833E /* angular.min.js */,
+				2EB89C4517F0C8E300B1833E /* calculator.js */,
+				2EB89C4617F0C8E300B1833E /* index.html */,
+				2EB89C4717F0C8E300B1833E /* jquery-1.8.3.min.js */,
+				2EB89C4817F0C8E300B1833E /* jquery.mobile-1.3.2.min.css */,
+				2EB89C4917F0C8E300B1833E /* jquery.mobile-1.3.2.min.js */,
+				2EB89C4A17F0C8E300B1833E /* style.css */,
+				2EB89C4B17F0C8E300B1833E /* tictactoe.js */,
+				2EB89C4C17F0C8E300B1833E /* warning.png */,
+			);
+			name = www;
+			sourceTree = "<group>";
+		};
+		9FA11AE0BA8BFB2C9BAC458E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				9FA8246DB96008969AF2BAFB /* Meeting Cost Calculator-Info.plist */,
+				9FADB2744D7E17703781EC42 /* InfoPlist.strings */,
+				9FA731B54A9912AEA1158818 /* main.m */,
+				9FA3A67F392E47B26D99FD95 /* Meeting Cost Calculator-Prefix.pch */,
+				9FA2E8716837BA137339B663 /* Default.png */,
+				9FAABEAED9C66517C255D8A6 /* Default@2x.png */,
+				9FADD59ABE1006F8FECEF52B /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9FA15B713BE29434F0E318E7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9FA12C4283A9D1632FDB70E4 /* UIKit.framework */,
+				9FA847BC167B70164535C5E3 /* Foundation.framework */,
+				9FA92FBCA0BD929091B9E83C /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		9FAD2DBF2801A0BAF702DEA6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9FA6D1F87FDB15754D40C205 /* Meeting Cost Calculator.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9FAEACC59220717861D15E4B /* Meeting Cost Calculator */ = {
+			isa = PBXGroup;
+			children = (
+				2EB89C5617F0C8F500B1833E /* www */,
+				9FA11AE0BA8BFB2C9BAC458E /* Supporting Files */,
+				9FA099092B3AFD23C9E0B233 /* AppDelegate.h */,
+				9FA34947801D472F4B12FEF5 /* AppDelegate.m */,
+				9FAB78F614E7E097C0C277CB /* MainStoryboard_iPhone.storyboard */,
+				9FAF48E78AD5B233A86C9E67 /* MainStoryboard_iPad.storyboard */,
+				9FAF55B30DD083107F103953 /* ViewController.h */,
+				9FA8FE950DE576BFE9C5D4E5 /* ViewController.m */,
+			);
+			path = "Meeting Cost Calculator";
+			sourceTree = "<group>";
+		};
+		9FAEDEB88FB648E1EC326FA4 = {
+			isa = PBXGroup;
+			children = (
+				9FAD2DBF2801A0BAF702DEA6 /* Products */,
+				9FA15B713BE29434F0E318E7 /* Frameworks */,
+				9FAEACC59220717861D15E4B /* Meeting Cost Calculator */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9FA8CEF4FA7543175024B33D /* Meeting Cost Calculator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9FA5ECD93A241589F6B1BE96 /* Build configuration list for PBXNativeTarget "Meeting Cost Calculator" */;
+			buildPhases = (
+				9FABD3D815C79FC4EF38ACC2 /* Sources */,
+				9FAB0CBE4A85DB84A0E4F049 /* Frameworks */,
+				9FA9278A9272F9E35F76B9A0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Meeting Cost Calculator";
+			productName = "Meeting Cost Calculator";
+			productReference = 9FA6D1F87FDB15754D40C205 /* Meeting Cost Calculator.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9FA6A375F4979E958F83565A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = "Per Jansson";
+			};
+			buildConfigurationList = 9FAAB92091C03D266E56CD34 /* Build configuration list for PBXProject "Meeting Cost Calculator" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 9FAEDEB88FB648E1EC326FA4;
+			productRefGroup = 9FAD2DBF2801A0BAF702DEA6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9FA8CEF4FA7543175024B33D /* Meeting Cost Calculator */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9FA9278A9272F9E35F76B9A0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9FAB4872276107BB3CAE8E23 /* InfoPlist.strings in Resources */,
+				9FAC5DE6C72A1405CA7D761A /* Default.png in Resources */,
+				9FA5817569022E3134C1F032 /* Default@2x.png in Resources */,
+				9FA283E7FB209DEA5CB19309 /* Default-568h@2x.png in Resources */,
+				9FA19ABAE62E4D0372D6C1C8 /* MainStoryboard_iPhone.storyboard in Resources */,
+				9FAD0E5FB14C8241B9A72253 /* MainStoryboard_iPad.storyboard in Resources */,
+				2EB89C4F17F0C8E300B1833E /* index.html in Resources */,
+				2EB89C4D17F0C8E300B1833E /* angular.min.js in Resources */,
+				2EB89C4E17F0C8E300B1833E /* calculator.js in Resources */,
+				2EB89C5017F0C8E300B1833E /* jquery-1.8.3.min.js in Resources */,
+				2EB89C5217F0C8E300B1833E /* jquery.mobile-1.3.2.min.js in Resources */,
+				2EB89C5417F0C8E300B1833E /* tictactoe.js in Resources */,
+				2EB89C5117F0C8E300B1833E /* jquery.mobile-1.3.2.min.css in Resources */,
+				2EB89C5317F0C8E300B1833E /* style.css in Resources */,
+				2EB89C5517F0C8E300B1833E /* warning.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9FABD3D815C79FC4EF38ACC2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9FA5D301C6205ECD2A8E3BD8 /* main.m in Sources */,
+				9FA3F3AF37EE2B085A88302D /* AppDelegate.m in Sources */,
+				9FAC4834B8EBF6F63CF57B84 /* ViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		9FAB78F614E7E097C0C277CB /* MainStoryboard_iPhone.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9FA8198AD2FDC1F1E0BBCF06 /* en */,
+			);
+			name = MainStoryboard_iPhone.storyboard;
+			sourceTree = "<group>";
+		};
+		9FADB2744D7E17703781EC42 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9FAB22E9115C7FE5F7A66AD4 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		9FAF48E78AD5B233A86C9E67 /* MainStoryboard_iPad.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9FAF96D9360FFE293C4EF5DB /* en */,
+			);
+			name = MainStoryboard_iPad.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		9FA20113FA4FC8C9431AB216 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Meeting Cost Calculator/Meeting Cost Calculator-Prefix.pch";
+				INFOPLIST_FILE = "Meeting Cost Calculator/Meeting Cost Calculator-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		9FAC085B09A96180FF9FCA0E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		9FAD593B8F4130A05B4564B2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9FAE93A57B172982120EDE32 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Meeting Cost Calculator/Meeting Cost Calculator-Prefix.pch";
+				INFOPLIST_FILE = "Meeting Cost Calculator/Meeting Cost Calculator-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9FA5ECD93A241589F6B1BE96 /* Build configuration list for PBXNativeTarget "Meeting Cost Calculator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9FAE93A57B172982120EDE32 /* Release */,
+				9FA20113FA4FC8C9431AB216 /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9FAAB92091C03D266E56CD34 /* Build configuration list for PBXProject "Meeting Cost Calculator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9FAD593B8F4130A05B4564B2 /* Release */,
+				9FAC085B09A96180FF9FCA0E /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9FA6A375F4979E958F83565A /* Project object */;
+}
