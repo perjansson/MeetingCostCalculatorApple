@@ -7,6 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2EB1E09117F0D7550047C0F2 /* Icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E08317F0D7550047C0F2 /* Icon-40.png */; };
+		2EB1E09217F0D7550047C0F2 /* Icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E08417F0D7550047C0F2 /* Icon-40@2x.png */; };
+		2EB1E09317F0D7550047C0F2 /* Icon-60.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E08517F0D7550047C0F2 /* Icon-60.png */; };
+		2EB1E09417F0D7550047C0F2 /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E08617F0D7550047C0F2 /* Icon-60@2x.png */; };
+		2EB1E09517F0D7550047C0F2 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E08717F0D7550047C0F2 /* Icon-72.png */; };
+		2EB1E09617F0D7550047C0F2 /* Icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E08817F0D7550047C0F2 /* Icon-72@2x.png */; };
+		2EB1E09717F0D7550047C0F2 /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E08917F0D7550047C0F2 /* Icon-76.png */; };
+		2EB1E09817F0D7550047C0F2 /* Icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E08A17F0D7550047C0F2 /* Icon-76@2x.png */; };
+		2EB1E09917F0D7550047C0F2 /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E08B17F0D7550047C0F2 /* Icon-Small-50.png */; };
+		2EB1E09A17F0D7550047C0F2 /* Icon-Small-50@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E08C17F0D7550047C0F2 /* Icon-Small-50@2x.png */; };
+		2EB1E09B17F0D7550047C0F2 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E08D17F0D7550047C0F2 /* Icon-Small.png */; };
+		2EB1E09C17F0D7550047C0F2 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E08E17F0D7550047C0F2 /* Icon-Small@2x.png */; };
+		2EB1E09D17F0D7550047C0F2 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E08F17F0D7550047C0F2 /* Icon.png */; };
+		2EB1E09E17F0D7550047C0F2 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E09017F0D7550047C0F2 /* Icon@2x.png */; };
+		2EB1E0A117F0D8120047C0F2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E0A017F0D8120047C0F2 /* Images.xcassets */; };
+		2EB1E0AE17F0E29E0047C0F2 /* iOS Simulator Screen 3.5 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E0A217F0E29E0047C0F2 /* iOS Simulator Screen 3.5 1.png */; };
+		2EB1E0AF17F0E29E0047C0F2 /* iOS Simulator Screen 3.5 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E0A317F0E29E0047C0F2 /* iOS Simulator Screen 3.5 2.png */; };
+		2EB1E0B017F0E29E0047C0F2 /* iOS Simulator Screen 3.5 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E0A417F0E29E0047C0F2 /* iOS Simulator Screen 3.5 3.png */; };
+		2EB1E0B117F0E29E0047C0F2 /* iOS Simulator Screen 4 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E0A517F0E29E0047C0F2 /* iOS Simulator Screen 4 1.png */; };
+		2EB1E0B217F0E29E0047C0F2 /* iOS Simulator Screen 4 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E0A617F0E29E0047C0F2 /* iOS Simulator Screen 4 2.png */; };
+		2EB1E0B317F0E29E0047C0F2 /* iOS Simulator Screen 4 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E0A717F0E29E0047C0F2 /* iOS Simulator Screen 4 3.png */; };
+		2EB1E0B417F0E29E0047C0F2 /* iOS Simulator Screen iPad 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E0A817F0E29E0047C0F2 /* iOS Simulator Screen iPad 1.png */; };
+		2EB1E0B517F0E29E0047C0F2 /* iOS Simulator Screen iPad 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E0A917F0E29E0047C0F2 /* iOS Simulator Screen iPad 2.png */; };
+		2EB1E0B617F0E29E0047C0F2 /* iOS Simulator Screen iPad 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E0AA17F0E29E0047C0F2 /* iOS Simulator Screen iPad 3.png */; };
+		2EB1E0B717F0E29E0047C0F2 /* iTunesArtwork.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E0AB17F0E29E0047C0F2 /* iTunesArtwork.png */; };
+		2EB1E0B817F0E29E0047C0F2 /* iTunesArtwork@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E0AC17F0E29E0047C0F2 /* iTunesArtwork@2x.png */; };
+		2EB1E0B917F0E29E0047C0F2 /* mcc.html in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E0AD17F0E29E0047C0F2 /* mcc.html */; };
+		2EB1E0BC17F0E2F20047C0F2 /* web_image_mcc.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EB1E0BB17F0E2F20047C0F2 /* web_image_mcc.png */; };
 		2EB89C4D17F0C8E300B1833E /* angular.min.js in Resources */ = {isa = PBXBuildFile; fileRef = 2EB89C4417F0C8E300B1833E /* angular.min.js */; };
 		2EB89C4E17F0C8E300B1833E /* calculator.js in Resources */ = {isa = PBXBuildFile; fileRef = 2EB89C4517F0C8E300B1833E /* calculator.js */; };
 		2EB89C4F17F0C8E300B1833E /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 2EB89C4617F0C8E300B1833E /* index.html */; };
@@ -31,6 +59,34 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2EB1E08317F0D7550047C0F2 /* Icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-40.png"; path = "Meeting Cost Calculator/Icon-40.png"; sourceTree = "<group>"; };
+		2EB1E08417F0D7550047C0F2 /* Icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-40@2x.png"; path = "Meeting Cost Calculator/Icon-40@2x.png"; sourceTree = "<group>"; };
+		2EB1E08517F0D7550047C0F2 /* Icon-60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-60.png"; path = "Meeting Cost Calculator/Icon-60.png"; sourceTree = "<group>"; };
+		2EB1E08617F0D7550047C0F2 /* Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-60@2x.png"; path = "Meeting Cost Calculator/Icon-60@2x.png"; sourceTree = "<group>"; };
+		2EB1E08717F0D7550047C0F2 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72.png"; path = "Meeting Cost Calculator/Icon-72.png"; sourceTree = "<group>"; };
+		2EB1E08817F0D7550047C0F2 /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72@2x.png"; path = "Meeting Cost Calculator/Icon-72@2x.png"; sourceTree = "<group>"; };
+		2EB1E08917F0D7550047C0F2 /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-76.png"; path = "Meeting Cost Calculator/Icon-76.png"; sourceTree = "<group>"; };
+		2EB1E08A17F0D7550047C0F2 /* Icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-76@2x.png"; path = "Meeting Cost Calculator/Icon-76@2x.png"; sourceTree = "<group>"; };
+		2EB1E08B17F0D7550047C0F2 /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small-50.png"; path = "Meeting Cost Calculator/Icon-Small-50.png"; sourceTree = "<group>"; };
+		2EB1E08C17F0D7550047C0F2 /* Icon-Small-50@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small-50@2x.png"; path = "Meeting Cost Calculator/Icon-Small-50@2x.png"; sourceTree = "<group>"; };
+		2EB1E08D17F0D7550047C0F2 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small.png"; path = "Meeting Cost Calculator/Icon-Small.png"; sourceTree = "<group>"; };
+		2EB1E08E17F0D7550047C0F2 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small@2x.png"; path = "Meeting Cost Calculator/Icon-Small@2x.png"; sourceTree = "<group>"; };
+		2EB1E08F17F0D7550047C0F2 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = "Meeting Cost Calculator/Icon.png"; sourceTree = "<group>"; };
+		2EB1E09017F0D7550047C0F2 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon@2x.png"; path = "Meeting Cost Calculator/Icon@2x.png"; sourceTree = "<group>"; };
+		2EB1E0A017F0D8120047C0F2 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		2EB1E0A217F0E29E0047C0F2 /* iOS Simulator Screen 3.5 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iOS Simulator Screen 3.5 1.png"; path = "Itunes/iOS Simulator Screen 3.5 1.png"; sourceTree = "<group>"; };
+		2EB1E0A317F0E29E0047C0F2 /* iOS Simulator Screen 3.5 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iOS Simulator Screen 3.5 2.png"; path = "Itunes/iOS Simulator Screen 3.5 2.png"; sourceTree = "<group>"; };
+		2EB1E0A417F0E29E0047C0F2 /* iOS Simulator Screen 3.5 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iOS Simulator Screen 3.5 3.png"; path = "Itunes/iOS Simulator Screen 3.5 3.png"; sourceTree = "<group>"; };
+		2EB1E0A517F0E29E0047C0F2 /* iOS Simulator Screen 4 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iOS Simulator Screen 4 1.png"; path = "Itunes/iOS Simulator Screen 4 1.png"; sourceTree = "<group>"; };
+		2EB1E0A617F0E29E0047C0F2 /* iOS Simulator Screen 4 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iOS Simulator Screen 4 2.png"; path = "Itunes/iOS Simulator Screen 4 2.png"; sourceTree = "<group>"; };
+		2EB1E0A717F0E29E0047C0F2 /* iOS Simulator Screen 4 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iOS Simulator Screen 4 3.png"; path = "Itunes/iOS Simulator Screen 4 3.png"; sourceTree = "<group>"; };
+		2EB1E0A817F0E29E0047C0F2 /* iOS Simulator Screen iPad 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iOS Simulator Screen iPad 1.png"; path = "Itunes/iOS Simulator Screen iPad 1.png"; sourceTree = "<group>"; };
+		2EB1E0A917F0E29E0047C0F2 /* iOS Simulator Screen iPad 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iOS Simulator Screen iPad 2.png"; path = "Itunes/iOS Simulator Screen iPad 2.png"; sourceTree = "<group>"; };
+		2EB1E0AA17F0E29E0047C0F2 /* iOS Simulator Screen iPad 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iOS Simulator Screen iPad 3.png"; path = "Itunes/iOS Simulator Screen iPad 3.png"; sourceTree = "<group>"; };
+		2EB1E0AB17F0E29E0047C0F2 /* iTunesArtwork.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = iTunesArtwork.png; path = Itunes/iTunesArtwork.png; sourceTree = "<group>"; };
+		2EB1E0AC17F0E29E0047C0F2 /* iTunesArtwork@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iTunesArtwork@2x.png"; path = "Itunes/iTunesArtwork@2x.png"; sourceTree = "<group>"; };
+		2EB1E0AD17F0E29E0047C0F2 /* mcc.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = mcc.html; path = Itunes/mcc.html; sourceTree = "<group>"; };
+		2EB1E0BB17F0E2F20047C0F2 /* web_image_mcc.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = web_image_mcc.png; path = Itunes/web_image_mcc.png; sourceTree = "<group>"; };
 		2EB89C4417F0C8E300B1833E /* angular.min.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = angular.min.js; sourceTree = "<group>"; };
 		2EB89C4517F0C8E300B1833E /* calculator.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = calculator.js; sourceTree = "<group>"; };
 		2EB89C4617F0C8E300B1833E /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
@@ -73,6 +129,48 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2EB1E09F17F0D75C0047C0F2 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				2EB1E08317F0D7550047C0F2 /* Icon-40.png */,
+				2EB1E08417F0D7550047C0F2 /* Icon-40@2x.png */,
+				2EB1E08517F0D7550047C0F2 /* Icon-60.png */,
+				2EB1E08617F0D7550047C0F2 /* Icon-60@2x.png */,
+				2EB1E08717F0D7550047C0F2 /* Icon-72.png */,
+				2EB1E08817F0D7550047C0F2 /* Icon-72@2x.png */,
+				2EB1E08917F0D7550047C0F2 /* Icon-76.png */,
+				2EB1E08A17F0D7550047C0F2 /* Icon-76@2x.png */,
+				2EB1E08B17F0D7550047C0F2 /* Icon-Small-50.png */,
+				2EB1E08C17F0D7550047C0F2 /* Icon-Small-50@2x.png */,
+				2EB1E08D17F0D7550047C0F2 /* Icon-Small.png */,
+				2EB1E08E17F0D7550047C0F2 /* Icon-Small@2x.png */,
+				2EB1E08F17F0D7550047C0F2 /* Icon.png */,
+				2EB1E09017F0D7550047C0F2 /* Icon@2x.png */,
+			);
+			name = image;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		2EB1E0BA17F0E2A50047C0F2 /* iTunes */ = {
+			isa = PBXGroup;
+			children = (
+				2EB1E0BB17F0E2F20047C0F2 /* web_image_mcc.png */,
+				2EB1E0A217F0E29E0047C0F2 /* iOS Simulator Screen 3.5 1.png */,
+				2EB1E0A317F0E29E0047C0F2 /* iOS Simulator Screen 3.5 2.png */,
+				2EB1E0A417F0E29E0047C0F2 /* iOS Simulator Screen 3.5 3.png */,
+				2EB1E0A517F0E29E0047C0F2 /* iOS Simulator Screen 4 1.png */,
+				2EB1E0A617F0E29E0047C0F2 /* iOS Simulator Screen 4 2.png */,
+				2EB1E0A717F0E29E0047C0F2 /* iOS Simulator Screen 4 3.png */,
+				2EB1E0A817F0E29E0047C0F2 /* iOS Simulator Screen iPad 1.png */,
+				2EB1E0A917F0E29E0047C0F2 /* iOS Simulator Screen iPad 2.png */,
+				2EB1E0AA17F0E29E0047C0F2 /* iOS Simulator Screen iPad 3.png */,
+				2EB1E0AB17F0E29E0047C0F2 /* iTunesArtwork.png */,
+				2EB1E0AC17F0E29E0047C0F2 /* iTunesArtwork@2x.png */,
+				2EB1E0AD17F0E29E0047C0F2 /* mcc.html */,
+			);
+			name = iTunes;
+			sourceTree = "<group>";
+		};
 		2EB89C5617F0C8F500B1833E /* www */ = {
 			isa = PBXGroup;
 			children = (
@@ -124,6 +222,8 @@
 		9FAEACC59220717861D15E4B /* Meeting Cost Calculator */ = {
 			isa = PBXGroup;
 			children = (
+				2EB1E0BA17F0E2A50047C0F2 /* iTunes */,
+				2EB1E09F17F0D75C0047C0F2 /* image */,
 				2EB89C5617F0C8F500B1833E /* www */,
 				9FA11AE0BA8BFB2C9BAC458E /* Supporting Files */,
 				9FA099092B3AFD23C9E0B233 /* AppDelegate.h */,
@@ -132,6 +232,7 @@
 				9FAF48E78AD5B233A86C9E67 /* MainStoryboard_iPad.storyboard */,
 				9FAF55B30DD083107F103953 /* ViewController.h */,
 				9FA8FE950DE576BFE9C5D4E5 /* ViewController.m */,
+				2EB1E0A017F0D8120047C0F2 /* Images.xcassets */,
 			);
 			path = "Meeting Cost Calculator";
 			sourceTree = "<group>";
@@ -195,20 +296,48 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2EB1E0BC17F0E2F20047C0F2 /* web_image_mcc.png in Resources */,
+				2EB1E09217F0D7550047C0F2 /* Icon-40@2x.png in Resources */,
+				2EB1E0B517F0E29E0047C0F2 /* iOS Simulator Screen iPad 2.png in Resources */,
+				2EB1E0B117F0E29E0047C0F2 /* iOS Simulator Screen 4 1.png in Resources */,
+				2EB1E09E17F0D7550047C0F2 /* Icon@2x.png in Resources */,
+				2EB1E0B217F0E29E0047C0F2 /* iOS Simulator Screen 4 2.png in Resources */,
+				2EB1E09517F0D7550047C0F2 /* Icon-72.png in Resources */,
 				9FAB4872276107BB3CAE8E23 /* InfoPlist.strings in Resources */,
+				2EB1E0B617F0E29E0047C0F2 /* iOS Simulator Screen iPad 3.png in Resources */,
+				2EB1E0AF17F0E29E0047C0F2 /* iOS Simulator Screen 3.5 2.png in Resources */,
 				9FAC5DE6C72A1405CA7D761A /* Default.png in Resources */,
 				9FA5817569022E3134C1F032 /* Default@2x.png in Resources */,
+				2EB1E0B317F0E29E0047C0F2 /* iOS Simulator Screen 4 3.png in Resources */,
 				9FA283E7FB209DEA5CB19309 /* Default-568h@2x.png in Resources */,
 				9FA19ABAE62E4D0372D6C1C8 /* MainStoryboard_iPhone.storyboard in Resources */,
+				2EB1E0B917F0E29E0047C0F2 /* mcc.html in Resources */,
 				9FAD0E5FB14C8241B9A72253 /* MainStoryboard_iPad.storyboard in Resources */,
 				2EB89C4F17F0C8E300B1833E /* index.html in Resources */,
 				2EB89C4D17F0C8E300B1833E /* angular.min.js in Resources */,
+				2EB1E09117F0D7550047C0F2 /* Icon-40.png in Resources */,
+				2EB1E0B417F0E29E0047C0F2 /* iOS Simulator Screen iPad 1.png in Resources */,
 				2EB89C4E17F0C8E300B1833E /* calculator.js in Resources */,
+				2EB1E09D17F0D7550047C0F2 /* Icon.png in Resources */,
+				2EB1E09C17F0D7550047C0F2 /* Icon-Small@2x.png in Resources */,
 				2EB89C5017F0C8E300B1833E /* jquery-1.8.3.min.js in Resources */,
 				2EB89C5217F0C8E300B1833E /* jquery.mobile-1.3.2.min.js in Resources */,
+				2EB1E09617F0D7550047C0F2 /* Icon-72@2x.png in Resources */,
 				2EB89C5417F0C8E300B1833E /* tictactoe.js in Resources */,
+				2EB1E09B17F0D7550047C0F2 /* Icon-Small.png in Resources */,
+				2EB1E09317F0D7550047C0F2 /* Icon-60.png in Resources */,
+				2EB1E0A117F0D8120047C0F2 /* Images.xcassets in Resources */,
+				2EB1E09817F0D7550047C0F2 /* Icon-76@2x.png in Resources */,
+				2EB1E09717F0D7550047C0F2 /* Icon-76.png in Resources */,
+				2EB1E0AE17F0E29E0047C0F2 /* iOS Simulator Screen 3.5 1.png in Resources */,
 				2EB89C5117F0C8E300B1833E /* jquery.mobile-1.3.2.min.css in Resources */,
 				2EB89C5317F0C8E300B1833E /* style.css in Resources */,
+				2EB1E09917F0D7550047C0F2 /* Icon-Small-50.png in Resources */,
+				2EB1E0B017F0E29E0047C0F2 /* iOS Simulator Screen 3.5 3.png in Resources */,
+				2EB1E0B817F0E29E0047C0F2 /* iTunesArtwork@2x.png in Resources */,
+				2EB1E09A17F0D7550047C0F2 /* Icon-Small-50@2x.png in Resources */,
+				2EB1E09417F0D7550047C0F2 /* Icon-60@2x.png in Resources */,
+				2EB1E0B717F0E29E0047C0F2 /* iTunesArtwork.png in Resources */,
 				2EB89C5517F0C8E300B1833E /* warning.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -259,9 +388,12 @@
 		9FA20113FA4FC8C9431AB216 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Meeting Cost Calculator/Meeting Cost Calculator-Prefix.pch";
 				INFOPLIST_FILE = "Meeting Cost Calculator/Meeting Cost Calculator-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -328,9 +460,12 @@
 		9FAE93A57B172982120EDE32 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Meeting Cost Calculator/Meeting Cost Calculator-Prefix.pch";
 				INFOPLIST_FILE = "Meeting Cost Calculator/Meeting Cost Calculator-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
